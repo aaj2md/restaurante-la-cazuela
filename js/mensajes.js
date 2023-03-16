@@ -1,0 +1,2 @@
+/* lanza mensajes */
+alert("hola");
