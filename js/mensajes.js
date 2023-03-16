@@ -1,2 +1,3 @@
 /* lanza mensajes */
-alert("hola");
+alert("hola colega");
+alert("hola feliz dia");
